@@ -1,0 +1,4 @@
+,,,Encryption time,Decryption time,Bruteforce time
+short.txt,73,2,2.8e-05,5.9e-05,0.143137
+medium.txt,73,2,0.000206,0.00053,1.331295
+long.txt,73,2,0.001348,0.003673,9.682526
