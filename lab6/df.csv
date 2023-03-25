@@ -1,0 +1,4 @@
+,,Encryption time,Decryption time
+short.txt,7179875849,6e-05,5.1e-05
+medium.txt,7179875849,0.000202,0.000171
+long.txt,7179875849,0.001581,0.001442
